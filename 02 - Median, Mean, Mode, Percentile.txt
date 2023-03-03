@@ -1,0 +1,13 @@
+Median, Mean, Mode, Percentile
+
+- perhatikan outliers, outluers yang ekstrem dianjurkan untuk 
+tidak menggunakan average dalam mengambil kesimpulan[disarankan menggunakan median]
+
+- mean dan median dapat digunakan untuk descriptif analisis dan data cleaning.
+
+- how to remove outlier
+
+Median : nilai tengah (n or n+n+1)
+Mean : rata rata (total/n)
+Mode : most value in population
+Percentile : can bi used for outlier case
