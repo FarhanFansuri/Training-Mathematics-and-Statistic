@@ -1,0 +1,12 @@
+Statistics : analisis, mengumpulkan dan interpretasi data.
+
+ada 2 kategori: inferential dan desriptive
+deskriptif:
+- organizing data and summarizing data using numbers and graphs
+- Data summary : pie chart, shape of graphs, etc.
+- measure of central tendency : eman, median, mode.
+
+inferensial :
+- using sample to make inference or draw a consclusion of the population
+- use probabolity to determine how confident we can be that the conclusion 
+we mae are correct.
