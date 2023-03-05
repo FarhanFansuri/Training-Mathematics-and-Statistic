@@ -1,0 +1,5 @@
+Standard Deviation :  sqrt((xmean - xi)^2/n)
+Mean Absolute Deviation : (xmean - xi)/n 
+
+- keduanya mengukur seberapa besar penyebarran data dari 
+nilai rata ratanya
